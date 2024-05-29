@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<cities>
+	<city>
+		<cityId>1</cityId>
+		<cityName>Madrid</cityName>
+	</city>
+
+	<city>
+		<cityId>2</cityId>
+		<cityName>Barcelona</cityName>
+	</city>
+
+	<city>
+		<cityId>3</cityId>
+		<cityName>Valencia</cityName>
+	</city>
+
+	<city>
+		<cityId>4</cityId>
+		<cityName>Rome</cityName>
+	</city>
+
+	<city>
+		<cityId>5</cityId>
+		<cityName>Juventus</cityName>
+	</city>
+
+	<city>
+		<cityId>6</cityId>
+		<cityName>Milan</cityName>
+	</city>
+	
+</cities>
